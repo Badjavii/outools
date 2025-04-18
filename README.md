@@ -1,2 +1,2 @@
 # outools
-A C++ project for users
+A C++/Java project for users
