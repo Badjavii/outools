@@ -32,7 +32,7 @@ It's worth mentioning that to use Outools, you need to do your own research on h
 
 ## Responsibility and reference for use at the institutional level
 
-Ooutols tools meet highly demanded needs in the development field for core subjects at educational institutions. Therefore, students are advised to carefully read the documentation to understand the tools' logic. You should also consult with your tutor about the rules for using external libraries, such as including the reference to the repository to which the code belongs, etc.
+Outools tools meet highly demanded needs in the development field for core subjects at educational institutions. Therefore, students are advised to carefully read the documentation to understand the tools' logic. You should also consult with your tutor about the rules for using external libraries, such as including the reference to the repository to which the code belongs, etc.
 
 ## Availability
 
